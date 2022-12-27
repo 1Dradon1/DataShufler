@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shuffle", "Диплом проводу\Shuffle.csproj", "{C9B4A20F-9D33-4231-B8D9-CC3AE4031E1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{00D310E8-222B-4373-AF2A-C43C6CF983FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unshufle", "Unshufle\Unshufle.csproj", "{39822A00-8D06-4E64-9934-A3B263ACC838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B4A20F-9D33-4231-B8D9-CC3AE4031E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B4A20F-9D33-4231-B8D9-CC3AE4031E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B4A20F-9D33-4231-B8D9-CC3AE4031E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B4A20F-9D33-4231-B8D9-CC3AE4031E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D310E8-222B-4373-AF2A-C43C6CF983FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D310E8-222B-4373-AF2A-C43C6CF983FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D310E8-222B-4373-AF2A-C43C6CF983FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D310E8-222B-4373-AF2A-C43C6CF983FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39822A00-8D06-4E64-9934-A3B263ACC838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39822A00-8D06-4E64-9934-A3B263ACC838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39822A00-8D06-4E64-9934-A3B263ACC838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39822A00-8D06-4E64-9934-A3B263ACC838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA46F2E-8497-4EF5-8B32-88B159BF73AF}
+	EndGlobalSection
+EndGlobal
